@@ -24,6 +24,7 @@ Issue closed: XXX-123
 * List fix versions for a project.
 * Assign issue to me
 * Initiate workflow event for issue.
+* Assign issue to someone else.
 
 ## Installation
 
